@@ -2,10 +2,8 @@
 
 a=5
 b=40
-read -p "二つの自然数を入手してくだい：" a b
-
-num1=$1
-num2=$2
+num1=$a
+num2=$b
 r=1
 until [ "$r" -eq 0 ]
 do
