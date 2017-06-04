@@ -3,8 +3,7 @@
 a=5
 b=40
 
-function gcd ()
- {
+function gcd {
    num1=$1
    num2=$2
    r=1
